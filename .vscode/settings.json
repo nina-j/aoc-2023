@@ -1,6 +1,9 @@
 {
     "rust-analyzer.linkedProjects": [
-        "./day01/Cargo.toml"
+        "./day01/Cargo.toml",
+        "./day02/Cargo.toml"
     ],
-    "editor.formatOnSave": true
+    "editor.formatOnSave": true,
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true
 }
